@@ -6,7 +6,7 @@ categories: book
 
 # 도서: [코로나 사이언스](http://www.yes24.com/Product/Goods/93715829)를 읽고 새롭게 알게 된 내용
 
-![북커버이미지](/images/book_cover_corona_science.jpg)
+![북커버이미지](./images/book_cover_corona_science.jpg)
 
 1부 신종 바이러스의 침투 경로와 방어 전략  
 1. 사스코로나바이러스-2는 어떻게 폐렴을 유발하나
