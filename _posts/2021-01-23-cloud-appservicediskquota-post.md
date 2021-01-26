@@ -1,7 +1,7 @@
 ---
 title: "클라우드: App Service에서 더 큰 용량의 디스크가 필요하다면?"
 date: 2021-01-23 00:00:00
-categories: techm cloud
+categories: cloud, app service, storage
 ---
 
 Azure의 대표적인 PaaS 앱 호스팅 서비스는 App Service입니다. 
